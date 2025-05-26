@@ -1,7 +1,13 @@
 name: xenia_analysis
 dependencies:
-  - python=3.11
+  - python=3.10
+  - h5py
   - pandas
   - numpy
+  - plotly
   - scipy
-  - h5py
+  - statsmodels
+  - pip
+  - pip:
+    - kaleido
+    - XlsxWriter

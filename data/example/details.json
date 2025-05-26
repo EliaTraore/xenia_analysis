@@ -1,0 +1,49 @@
+{
+ "inputs": [
+  {
+   "filename": "labels.xenia_06.04.25_tubocurarine100mM.012_20250304_154626301_6_A32A2(left)_tubocurarine_100micromolar.analysis.h5",
+   "substance": "tubocurarine",
+   "concentration": {
+    "value": 100,
+    "unit": "micromolar"
+   },
+   "framerate_fps": 20
+  },
+  {
+   "filename": "labels.xenia_06.04.25_tubocurarine100mM.010_20250304_154624307_10_A33A1_tubocurarine_100micromolar.analysis.h5",
+   "substance": "tubocurarine",
+   "concentration": {
+    "value": 100,
+    "unit": "micromolar"
+   },
+   "framerate_fps": 20
+  },
+  {
+   "filename": "labels.xenia_06.04.25_tubocurarine100mM.011_20250304_154626301_7_A32B2(right)_tubocurarine_100micromolar.analysis.h5",
+   "substance": "tubocurarine",
+   "concentration": {
+    "value": 100,
+    "unit": "micromolar"
+   },
+   "framerate_fps": 20
+  },
+  {
+   "filename": "labels.xenia_06.04.25_tubocurarine100mM.014_20250304_154628311_9_A30C2(left)_tubocurarine_100micromolar.analysis.h5",
+   "substance": "tubocurarine",
+   "concentration": {
+    "value": 100,
+    "unit": "micromolar"
+   },
+   "framerate_fps": 20
+  },
+  {
+   "filename": "labels.xenia_06.04.25_tubocurarine100mM.013_20250304_154628311_8_A30C1(right)_tubocurarine_100micromolar.analysis.h5",
+   "substance": "tubocurarine",
+   "concentration": {
+    "value": 100,
+    "unit": "micromolar"
+   },
+   "framerate_fps": 20
+  }
+ ]
+}
