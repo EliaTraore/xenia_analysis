@@ -1,0 +1,7 @@
+name: xenia_analysis
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - h5py
